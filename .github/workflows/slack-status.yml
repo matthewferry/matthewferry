@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-        echo "STATUS_EXPIRATION=$(($(date +%s) + 18000))" >> $GITHUB_ENV
+          echo "STATUS_EXPIRATION=$(($(date +%s) + 18000))" >> $GITHUB_ENV
       - uses: hbfernandes/slack-action@1.0
         env:
           SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
