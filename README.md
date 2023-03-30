@@ -53,7 +53,7 @@ I’m a **night owl** 🌜🦉 and prefer quiet spaces for deep work. Because mo
 
 #### Personality
 
-I love **personality quizzes** probably a little too much. They never paint a completely accurate picture of course and are mostly unscientific, but I just enjoy them and find they're useful as a starting point for self-reflection as well as forming empathy and getting to know what motivates others. So here are some of mine:
+I love personality quizzes probably a little too much. They never paint a completely accurate picture of course and are mostly unscientific, but I just enjoy them and find they're useful as a starting point for self-reflection as well as forming empathy and getting to know what motivates others. So here are some of mine:
 
 - [My sun, moon and rising](https://www.costarastrology.com/matthewferry): Capricorn, Aquarius, Leo
 - [Enneagram](https://en.wikipedia.org/wiki/Enneagram_of_Personality): 5, a Thinker
