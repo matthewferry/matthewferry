@@ -18,7 +18,7 @@ My **weaknesses** 🦹 are in divergent and generative thinking. I have a tenden
 
 ### Motivators
 
-- **I need to `make` and generate output regularly**. But, I can sometimes struggle to get things over the line when working completely alone. And because I prefer being in a band than performing a solo anyway, I work best in a team setting. I pair well with people who are playfully output-driven, high-energy, and care a lot about quality and details. They counterbalance my analytical and introspective side.
+- **I need to `make` and generate output regularly**. But, I can sometimes struggle to get things over the line when working completely alone. And because I prefer being in a band than performing a solo anyway, I work best in a team setting. I pair well with people who are playfully output-driven, high-energy, high-risk tolerent, and care a lot about quality and details. They counterbalance my analytical, introspective and cautious side.
 - **I need recognition and praise**. I will be embarrassed and uncomfortable with it, but I also need it to stay motivated.
 - **I need to strive for self-sufficiency**. This may seem to be in conflict with the first bullet point, but I like to be able to do things for myself when I can and not rely on others. In team situations, I like to be helpful outside my core responsibility when I can. At the same time, I need clarity on what I am responsible for so I know what is expected of me. 
 - **I need substantial alone-time**. I'm an introvert, so I need space and time to recharge, do deep work, form thoughts, and create expressively without an audience. Filling my calendar with meetings will drain me and diminish my ability to output and be a useful person.
