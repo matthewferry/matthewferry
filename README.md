@@ -7,7 +7,7 @@ I'm a designer 🤓, mostly of software. I currently live in the high desert of 
 
 <details>
 <summary>
-View the full documentation to get to know me a little more than you probably want/should
+View the full documentation to get to know me a little more than you probably want/should. Useful (maybe?) if you work with me on a daily basis.
 </summary>
 
 ### The good and the bad
