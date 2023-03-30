@@ -24,7 +24,7 @@ My **weaknesses** 🦹 are in divergent and generative thinking. I have a tenden
 - **I need substantial alone-time**. I'm an introvert, so I need space and time to recharge, do deep work, form thoughts, and create expressively without an audience. Filling my calendar with meetings will drain me and diminish my ability to output and be a useful person.
 - **I need multiple outlets for creativity at a time**. This helps me lean into my ADHD instead of fighting it, but I am also prone to over-committing.
 - **I need to be able to be silly, and to have time for play**. Being able to be silly or goofy with others helps me feel connected, engaged, and often inspires. Having time for unbounded play helps me feel energized.
-- **I need very clear work/life boundaries**. I love working, but if I'm not careful, I can easily let myself be consumed by it. I have a family and hobbies I enjoy and need my time with them to be time with them. With my ADHD brain, I can be easily distracted and fall into work rabbit holes. To mitigate this, I don't allow notifications, and I'm strict about screen times and when and where I can access my work computers.
+- **I need very clear work/life boundaries**. I love working, but if I'm not careful, I can easily let myself be consumed by it. I have a family and hobbies I enjoy and need my time with them to be time with them. With my ADHD brain, I can be easily distracted and fall into work rabbit holes. To mitigate this, I don't allow notifications, and I'm strict about screen times and when and where I can access my work computer/systems.
 
 ### How I work
 
